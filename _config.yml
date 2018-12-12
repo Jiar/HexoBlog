@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.jiar.vip   # with the https protocol
-# enforce_ssl: blog.jiar.vip   # without any protocol
+url: https://jiar.github.io   # with the https protocol
+# enforce_ssl: jiar.github.io   # without any protocol
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
