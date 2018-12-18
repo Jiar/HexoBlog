@@ -1,3 +1,7 @@
-# HexoBlog
+#### HexoBlog
 
-我的hexo博客部署前文件
+这里是旧博客部署前的存放仓库
+
+旧博客地址：[http://jiar.github.io](http://jiar.github.io)
+
+新主页地址：[https://jiar.me](https://jiar.me)
