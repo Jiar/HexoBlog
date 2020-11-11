@@ -10,7 +10,7 @@ tags:
 ## UITextField光标异常如何解决
 
 在`iOS`开发中，用`xib`写了那么多的界面，我也是头一次遇到这样一个问题，如下图所示：
-![UITextField光标异常](UITextField光标异常/UITextField光标异常.gif)
+![UITextField光标异常](UITextField光标异常.gif)
 
 <!--more-->
 
@@ -42,4 +42,6 @@ tags:
 
 欢迎关注我的个人微信订阅号，我将不定期分享开发方面的干货。
 
-![Jiar's 微信订阅号](Dingyuehao.jpg)
+![Jiar's 微信订阅号](/images/Dingyuehao.jpg)
+
+

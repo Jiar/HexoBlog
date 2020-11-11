@@ -453,5 +453,5 @@ JRAlertController is released under the Apache-2.0 license. See [LICENSE](https:
 
 欢迎关注我的个人微信订阅号，我将不定期分享开发方面的干货。
 
-![Jiar's 微信订阅号](Dingyuehao.jpg)
+![Jiar's 微信订阅号](/images/Dingyuehao.jpg)
 

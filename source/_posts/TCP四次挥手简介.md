@@ -131,4 +131,5 @@ TCP协议是一种面向连接的、可靠的、基于字节流的运输层通�
 
 欢迎关注我的个人微信订阅号，我将不定期分享开发方面的干货。
 
-![Jiar's 微信订阅号](Dingyuehao.jpg)
+![Jiar's 微信订阅号](/images/Dingyuehao.jpg)
+

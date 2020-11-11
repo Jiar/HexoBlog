@@ -133,4 +133,5 @@ TCP的SYN同步标志位被设计成占用一个字节的编号，既然是一�
 
 欢迎关注我的个人微信订阅号，我将不定期分享开发方面的干货。
 
-![Jiar's 微信订阅号](Dingyuehao.jpg)
+![Jiar's 微信订阅号](/images/Dingyuehao.jpg)
+

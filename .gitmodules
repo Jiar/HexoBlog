@@ -1,4 +1,0 @@
-[submodule ".deploy_git"]
-	path = .deploy_git
-	url = git@github.com:Jiar/Jiar.github.io.git
-	branch = master
