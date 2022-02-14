@@ -7,8 +7,6 @@ tags:
 - UITextField
 ---
 
-## UITextField光标异常如何解决
-
 在`iOS`开发中，用`xib`写了那么多的界面，我也是头一次遇到这样一个问题，如下图所示：
 ![UITextField光标异常](UITextField光标异常.gif)
 

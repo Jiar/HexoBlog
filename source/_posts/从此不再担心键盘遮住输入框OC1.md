@@ -11,13 +11,10 @@ tags:
 
 文章可能有更新，如需了解，请查看原文：[从此不再担心键盘遮住输入框OC(一)](http://www.jianshu.com/p/48993ff982c1)
 
-------
-
-### 新版本在这里：[从此不再担心键盘遮住输入框OC(二)](http://blog.jiar.vip/2015/12/07/%E4%BB%8E%E6%AD%A4%E4%B8%8D%E5%86%8D%E6%8B%85%E5%BF%83%E9%94%AE%E7%9B%98%E9%81%AE%E4%BD%8F%E8%BE%93%E5%85%A5%E6%A1%86OC2/)
-
-------
+### 新版本在这里：[从此不再担心键盘遮住输入框OC(二)](http://blog.jiar.me/2015/12/07/%E4%BB%8E%E6%AD%A4%E4%B8%8D%E5%86%8D%E6%8B%85%E5%BF%83%E9%94%AE%E7%9B%98%E9%81%AE%E4%BD%8F%E8%BE%93%E5%85%A5%E6%A1%86OC2/)
 
 想必大家在iOS开发中都有遇到过这种问题。点击输入框后，弹出的键盘遮挡了输入框，然后你就无法看见你输入了什么。为了解决这个问题，我也在 [Github](https://github.com/)、[CocoaChina](http://www.cocoachina.com/)以及[Code4App](http://code4app.com/)上花了不少时间去找相关的代码以及实现。
+
 ##### 找到的相关内容很多，但是都有一个共同点，是通过将底部的View上滑至键盘之上，从而可以看见输入框内的内容。在这方面做得好的有[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)，喜欢的可以去看看，但是我不是就直接采用了IQKeyboardManager，而是自己写了一个键盘组件[KeyboardToolBar](https://github.com/Jiar/KeyboardToolBar/)，优点是小巧易使用，支持[CocoaPods](https://cocoapods.org/)，侵入性小，作者爱交友~  
 
 先来一张效果图

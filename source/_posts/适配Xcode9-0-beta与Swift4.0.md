@@ -10,8 +10,6 @@ tags:
 - OC(Objective-C)调用Swift4
 ---
 
-# 适配Xcode9.0-beta与Swift4.0
-
 [简书阅读地址在这里](http://www.jianshu.com/p/1f702d59e54b)
 
 这几天苹果在开`WWDC2017`大会，期间放出了`Xcode9.0-beta`以及`Swift4`。为了响应苹果爸爸的号召，我果断下载了`Xcode9.0-beta`，并在项目中拉出了新的分支，准备搞事。

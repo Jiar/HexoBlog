@@ -11,9 +11,7 @@ tags:
 
 文章可能有更新，如需了解，请查看原文：[从此不再担心键盘遮住输入框OC(二)](http://www.jianshu.com/p/f33fd3f927f6)
 
-------
-
-在我发布这篇文章没多久之前，我发布了一篇叫 [从此不再担心键盘遮住输入框OC(一)](http://blog.jiar.vip/2015/11/15/%E4%BB%8E%E6%AD%A4%E4%B8%8D%E5%86%8D%E6%8B%85%E5%BF%83%E9%94%AE%E7%9B%98%E9%81%AE%E4%BD%8F%E8%BE%93%E5%85%A5%E6%A1%86OC1/)的文章。我在那篇文章中介绍了我的键盘组件[KeyboardToolBar](https://github.com/Jiar/KeyboardToolBar/)。
+在我发布这篇文章没多久之前，我发布了一篇叫 [从此不再担心键盘遮住输入框OC(一)](http://blog.jiar.me/2015/11/15/%E4%BB%8E%E6%AD%A4%E4%B8%8D%E5%86%8D%E6%8B%85%E5%BF%83%E9%94%AE%E7%9B%98%E9%81%AE%E4%BD%8F%E8%BE%93%E5%85%A5%E6%A1%86OC1/)的文章。我在那篇文章中介绍了我的键盘组件[KeyboardToolBar](https://github.com/Jiar/KeyboardToolBar/)。
 
 新版效果图
 ![KeyboardToolBar2 show](https://github.com/Jiar/KeyboardToolBar/raw/master/images/KeyboardToolBar2.gif) 

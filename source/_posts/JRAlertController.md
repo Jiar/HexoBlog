@@ -11,10 +11,6 @@ tags:
 - sheet
 ---
 
-## JRAlertController
-
-### JRAlertController
-
 [JRAlertController](https://github.com/Jiar/JRAlertController/)：基于apple的UIAlertController控件api，用swift重新打造的UI控件，更符合主流app的风格。
 
 ### JRAlertController总体效果图

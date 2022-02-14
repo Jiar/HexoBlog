@@ -7,11 +7,9 @@ tags:
 - TCP
 ---
 
-# TCP四次挥手简介
-
 [简书阅读地址在这里](http://www.jianshu.com/p/a57a40163d4b)
 
-阅读前提示：因为有部分知识会涉及到作者的另一篇博文《TCP三次握手简介》中的内容，建议先跳转阅读，[传送门在这里](http://blog.jiar.vip/2017/08/11/TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E7%AE%80%E4%BB%8B)。
+阅读前提示：因为有部分知识会涉及到作者的另一篇博文《TCP三次握手简介》中的内容，建议先跳转阅读，[传送门在这里](http://blog.jiar.me/2017/08/11/TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E7%AE%80%E4%BB%8B)。
 
 ![TCP四次挥手（原创图片）](tcp_hand_wave_detail.png)
 

@@ -17,7 +17,7 @@ Android开发中，经常用到地图定位服务，百度地图api正提供了�
 <!--more-->
 
 如下图，百度地图api默认提供了蓝色的外边框（accuracyCircleStrokeColor），淡蓝色的内部填充（accuracyCircleFillColor）
-![百度地图api MyLocationConfiguration 默认样式](Android-BaiduMap-MyLocationConfiguration-Set-Color/Android-BaiduMap-MyLocationConfiguration-Set-Color-0001.png)
+![百度地图api MyLocationConfiguration 默认样式](Android-BaiduMap-MyLocationConfiguration-Set-Color-0001.png)
 
 因为客户的需求是修改填充部分颜色，接下来我们通过代码来修改内部填充色：
 
@@ -31,7 +31,7 @@ Android开发中，经常用到地图定位服务，百度地图api正提供了�
 ```
 
 设置后，运行效果如下：
-![内部红色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color/Android-BaiduMap-MyLocationConfiguration-Set-Color-0002.png)
+![内部红色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color-0002.png)
 
 设置填充色为蓝色
 
@@ -43,7 +43,7 @@ Android开发中，经常用到地图定位服务，百度地图api正提供了�
 ```
 
 设置后，运行效果如下：
-![内部蓝色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color/Android-BaiduMap-MyLocationConfiguration-Set-Color-0003.png)
+![内部蓝色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color-0003.png)
 
 设置填充色为绿色
 
@@ -55,7 +55,7 @@ Android开发中，经常用到地图定位服务，百度地图api正提供了�
 ```
 
 设置后，运行效果如下：
-![内部绿色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color/Android-BaiduMap-MyLocationConfiguration-Set-Color-0004.png)
+![内部绿色填充色](Android-BaiduMap-MyLocationConfiguration-Set-Color-0004.png)
 
 到此，颜色修改成功！accuracyCircleStrokeColor与accuracyCircleFillColor的设置方式一样。
 可是问题来了，小伙伴们会说，这个颜色的值要怎么设置呢。这个“0xFF0000FF”，“0xFFFF0000”，“0xFF00FF00”都是怎么来的呢？接下来就来回答这个问题。
@@ -91,7 +91,7 @@ Android开发中，经常用到地图定位服务，百度地图api正提供了�
 ```
 
 不难发现，`a`方法在构造颜色中起了很重要的作用，算法好的同学们，可能很容易推测验证出`a`方法的作用。我在这里也不深究`a`方法如何构造出需要的颜色。下面我通过一张说明图来解释如果构造自己需要的颜色。
-![颜色构造说明](Android-BaiduMap-MyLocationConfiguration-Set-Color/Android-BaiduMap-MyLocationConfiguration-Set-Color-result.png)
+![颜色构造说明](Android-BaiduMap-MyLocationConfiguration-Set-Color-result.png)
 
 Now, all is OK...
 

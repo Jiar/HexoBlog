@@ -16,6 +16,8 @@ tags:
 
 最近老是看到关于使用Jenkins持续集成方面的文章，于是也去折腾了，稍作整理，这里分享下我是如何使用Jenkins持续集成iOS项目的。
 
+<!--more-->
+
 ##### 相关博文
 
 * [fir.im weekly - 「 持续集成 」实践教程合集](http://blog.fir.im/fir_im_weekly160505/)
@@ -41,10 +43,6 @@ tags:
 * [Jenkins 邮件配置 (使用 Jenkins Email Extension Plugin)](http://www.cnblogs.com/GGHHLL/p/jenkins.html)
 * [Jenkins进阶系列之——01使用email-ext替换Jenkins的默认邮件通知](http://www.cnblogs.com/zz0412/p/jenkins_jj_01.html)
 * [Using OCLint with Jenkins CI](http://docs.oclint.org/en/stable/guide/jenkins.html)
-
-
-<!--more-->
-
 
 #### 使用shell命令
 
